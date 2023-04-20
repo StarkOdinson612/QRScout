@@ -201,7 +201,7 @@
                     "required": false
                 },
                 {
-                    "code": "cl",
+                    "code": "int",
                     "title": "Pick up Cube/Cone where",
                     "type": "select",
                     "choices": {
